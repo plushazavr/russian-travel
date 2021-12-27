@@ -4,8 +4,14 @@
   line-height: 117%;
   font-weight: 400;
   text-decoration: none;
+  opacity: 1;
+  transition: opacity 0.3s ease;
 }
 
 .header__lang-link:last-child {
   margin-left: 18px;
+}
+
+.header__lang-link:hover {
+  opacity: 0.8;
 }

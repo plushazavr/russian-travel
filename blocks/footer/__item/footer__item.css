@@ -1,0 +1,7 @@
+.footer__item {
+  padding-left: 18px;
+}
+
+.footer__item:first-child {
+  padding-left: 0px;
+}
