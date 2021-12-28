@@ -1,5 +1,5 @@
 .cover {
-  width: calc(100% - 2*48px);  
+  width: 100%;  
   margin: 0px auto;
   padding-bottom: 92px;
   display: flex;  

@@ -7,3 +7,9 @@
   font-size: 72px;
   line-height: 106%;
 }
+
+@media screen and (max-width: 1024px) {
+  .place {
+    max-width: 440px;
+  }
+}
