@@ -12,3 +12,9 @@
   position: relative;
   z-index: 2;
 }
+
+@media screen and (max-width: 768px) {
+  .cover__subtitle {
+    padding-bottom: 115px;
+  } 
+}

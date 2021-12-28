@@ -6,9 +6,16 @@
   padding-bottom: 92px;
 }
 
-@media (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   .intro {
     margin-left: 48px;
     margin-right: 286px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    width: calc(100% - 2*24px);    
+    padding-bottom: 88px;
   }
 }

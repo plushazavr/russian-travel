@@ -12,9 +12,9 @@
   padding-bottom: 0px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
   .place {
-    width: calc(100% - 2*48px);
-    row-gap: 32px;
+    column-gap: 28px;
+    padding-bottom: 73px;
   }
 }

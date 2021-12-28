@@ -15,3 +15,12 @@
     gap: 14px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .photo-grid {
+    width: calc(100% - 2*24px);
+    grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(264px, 1fr));
+    gap: 16px;
+  }
+}

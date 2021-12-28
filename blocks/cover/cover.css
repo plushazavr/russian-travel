@@ -1,7 +1,19 @@
 .cover {
-  width: 100%;  
+  width: calc(100% - 2*48px);  
   margin: 0px auto;
   padding-bottom: 92px;
   display: flex;  
   flex-direction: column;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+    padding-bottom: 88px;
+  }
 }
