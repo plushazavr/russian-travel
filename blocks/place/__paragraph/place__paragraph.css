@@ -9,12 +9,12 @@
 }
 
 .place__paragraph:last-child {
-  padding-top: 26px
+  padding-top: 26px;
 }
 
 @media (max-width: 1279px) and (min-width: 1024px) {
   .place__paragraph:last-child {
-    padding-top: 27px
+    padding-top: 27px;
   }
 
   .place__paragraph {

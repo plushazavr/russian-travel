@@ -9,7 +9,7 @@
 
 @media (max-width: 1279px) and (min-width: 1024px) {
   .lead {
-    width: calc(100% - 2*48px)
+    width: calc(100% - 2*48px);
   }
 }
 
