@@ -2,3 +2,11 @@
   display: flex;
   justify-content: space-between;
 }
+
+
+@media (max-width: 767px) and (min-width: 320px) {
+  .footer__list {
+    display: block;
+    width: 100%;
+  }
+}
