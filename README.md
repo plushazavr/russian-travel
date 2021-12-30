@@ -2,7 +2,7 @@
 Лендинг о туристических местах России. 
 
 ------
-[ПРОЕКТ ТУТ :point_right:](https://plushazavr.github.io/russian-travel/)
+[:point_right:ПРОЕКТ ТУТ:point_left:](https://plushazavr.github.io/russian-travel/)
 
 Что использовалось: 
 * Адаптивная верстка
